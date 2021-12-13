@@ -42,6 +42,7 @@ class _HomeState extends State<Home> {
             children: <Widget>[
               header(5.0),
               const SizedBox( height: 6.0,),
+              body(5.0),
             ],
           );
         } else {

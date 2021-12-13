@@ -18,6 +18,6 @@ InputDecoration buildInputDecoration(String hintText, IconData icon){
 
     //hintText
     contentPadding: EdgeInsets.fromLTRB(20.0,15.0,20.0,15.0),
-    border: OutlineInputBorder(borderRadius: BorderRadius.circular(5.0)),
+    border: OutlineInputBorder(borderRadius: BorderRadius.circular(20.0)),
   );
 }
